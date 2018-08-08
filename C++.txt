@@ -1,0 +1,2 @@
+¿Qué es C++?
+C++ es un lenguaje de programación de alto nivel, que es la base de los sistemas operativos, software licenciado y libre del mundo informático actual. 
